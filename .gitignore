@@ -68,3 +68,6 @@ CLAUDE.local.md
 data/
 .codex
 .roomodes
+
+# 停止维护的本地子项目（2026-09-07 用户添加）
+/deepseek-web-proxy/
